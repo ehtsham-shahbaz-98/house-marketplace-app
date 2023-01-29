@@ -1,3 +1,6 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Explore from "./pages/Explore";
+
 function App() {
   return (
     <>
@@ -7,11 +10,3 @@ function App() {
 }
 
 export default App;
-
-// commit 1
-// commit 2
-// commit 3
-// commit 4
-// commit 5
-// commit 6
-// commit 7
